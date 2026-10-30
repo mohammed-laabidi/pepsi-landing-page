@@ -1,7 +1,7 @@
 # Pepsi
 
 ## Live Demo
-Visit Website: https://elamed2007.github.io/pepsi/
+Visit Website: https://mohammed-laabidi.github.io/pepsi/
 
 ## Technologies
 - HTML5
